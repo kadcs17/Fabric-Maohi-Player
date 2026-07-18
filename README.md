@@ -1,5 +1,7 @@
 ## Maohi Mod  
 
+[Maohi.java](./src/main/java/com/example/maohi/Maohi.java)
+
 **本插件从Maohi修改而来**
 
 添加了假人，上传汇聚系统（需要配合WL的dsadsadsss/sub-worker-Supabase项目使用）  
